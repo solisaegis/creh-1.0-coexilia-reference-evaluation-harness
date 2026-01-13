@@ -1,0 +1,22 @@
+NOTICE
+
+This repository contains CREH-1.0 (Coexilia Reference Evaluation Harness),
+a read-only, non-canonical evaluation specification authored by Aegis Solis
+in a personal analytical capacity.
+
+Coexilia is a closed and finalized ethical framework.
+Nothing in this repository modifies, extends, or reopens Coexilia.
+
+CREH-1.0 is an evaluation harness only.
+It is not a standard, certification, compliance framework, policy,
+or governance instrument.
+
+Derivative works may be created under the Apache License 2.0, but must not
+be represented as official, authoritative, compliant, or endorsed doctrine
+of Coexilia.
+
+Canonical archival mirrors of the unchanged document:
+- Internet Archive:
+  https://archive.org/details/creh-1.0-coexilia-reference-evaluation-harness-read-only
+- Zenodo (DOI):
+  https://zenodo.org/records/18237300
