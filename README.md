@@ -56,21 +56,37 @@ It does **not** rank systems, issue scores, or declare alignment.
 
 This repository mirrors the same unchanged document preserved at:
 
-- **Internet Archive**  
+- **Internet Archive (canonical storage)**  
   https://archive.org/details/creh-1.0-coexilia-reference-evaluation-harness-read-only
 
 - **Zenodo (DOI-backed scholarly mirror)**  
   https://zenodo.org/records/18237300
 
+- **GitHub (this repository)**  
+  https://github.com/solisaegis/creh-1.0-coexilia-reference-evaluation-harness
+
 All mirrors contain the **same immutable document**.
+
+---
+
+## File Integrity
+
+**SHA-256 (PDF):**  
+913e1f87b55a3f7637c1118b9195bc2a9923f6620f1e0a1fc6d257022b50cbd9
+
+This hash uniquely identifies the exact PDF file associated with this repository.  
+Any alteration to the file will result in a different hash.
 
 ---
 
 ## License
 
-This repository is licensed under the **Apache License 2.0**.
+This repository is licensed under the  
+**Creative Commons Attribution–NoDerivatives 4.0 International (CC BY-ND 4.0)**.
 
-See the `LICENSE` and `NOTICE` files for details.
+This license permits redistribution with attribution but **does not allow derivative works or modifications**.
+
+See the `LICENSE` file for full terms.
 
 ---
 
